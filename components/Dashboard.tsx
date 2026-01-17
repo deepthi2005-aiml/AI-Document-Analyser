@@ -1,4 +1,3 @@
-
 import React from 'react';
 import { AnalysisResult, DocumentMetadata } from '../types';
 import { BarChart, Bar, XAxis, YAxis, CartesianGrid, Tooltip, ResponsiveContainer, Cell, PieChart, Pie } from 'recharts';
