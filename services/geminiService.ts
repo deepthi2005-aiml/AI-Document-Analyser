@@ -72,3 +72,4 @@ export const chatWithDocument = async (
   const result = await model;
   return result.text;
 };
+
